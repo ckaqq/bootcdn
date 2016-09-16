@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!.htaccess
+!/index.php
+!/CURL.php
+!/README.md
